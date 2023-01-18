@@ -1,15 +1,5 @@
-# Python3 program to find the next optimal move for a player
 
 player, opponent = 'x', 'o'
-
- 
-
-# This function returns true if there are moves
-
-# remaining on the board. It returns false if
-
-# there are no moves left to play.
-
 def isMovesLeft(board) :
 
     for i in range(3) :
