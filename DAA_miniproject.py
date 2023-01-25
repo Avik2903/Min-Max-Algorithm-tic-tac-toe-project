@@ -11,8 +11,6 @@ def isMovesLeft(board) :
                 return True
 
     return False
-
-
 # This is the evaluation function as discussed
 
 def evaluate(b) :
